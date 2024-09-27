@@ -1,0 +1,1 @@
+const String databasePath = 'web/database/initial_data.sql';
